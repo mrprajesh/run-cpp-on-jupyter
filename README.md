@@ -18,6 +18,7 @@ jupyter notebook
 
 ### Open Browser, Write and Run
 
+Usually it is [http://localhost:8888/](http://localhost:8888/)
 
 ![image](https://user-images.githubusercontent.com/259998/209522456-883c5e3d-8b48-4067-9fe4-89030fad6884.png)
 
