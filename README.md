@@ -14,9 +14,9 @@ conda activate cling   #okay!
 #RUN
 jupyter notebook 
 
-
 ```
 
-### Write and run
+### Open Browser, Write and Run
 
 
+![image](https://user-images.githubusercontent.com/259998/209522456-883c5e3d-8b48-4067-9fe4-89030fad6884.png)
