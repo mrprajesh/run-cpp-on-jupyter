@@ -20,3 +20,8 @@ jupyter notebook
 
 
 ![image](https://user-images.githubusercontent.com/259998/209522456-883c5e3d-8b48-4067-9fe4-89030fad6884.png)
+
+
+### Install instructions
+
+- Please follow [my blog](https://mrprajesh.co.in/blog/)
