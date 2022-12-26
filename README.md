@@ -1,8 +1,6 @@
 # run-cpp-on-jupyter
-How to run cpp code on jupyter notebook. 
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mrprajesh/run-cpp-on-jupyter/HEAD?labpath=HelloCppJupyter.ipynb)
-or [Check here](https://github.com/mrprajesh/run-cpp-on-jupyter/blob/main/HelloCppJupyter.ipynb).
+How to run cpp code on jupyter notebook. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mrprajesh/run-cpp-on-jupyter/HEAD?labpath=HelloCppJupyter.ipynb)
+or [// See output](https://github.com/mrprajesh/run-cpp-on-jupyter/blob/main/HelloCppJupyter.ipynb).
 
 ```
 git clone git@github.com:mrprajesh/run-cpp-on-jupyter.git 
