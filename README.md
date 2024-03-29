@@ -8,7 +8,7 @@ git clone git@github.com:mrprajesh/run-cpp-on-jupyter.git
 
 cd run-cpp-on-jupyter
 
-#ACTIVATE
+#ACTIVATE #Assumes Cling already. If not, follow the install step at the end.
 conda activate cling   #okay!
 
 #RUN
@@ -25,4 +25,4 @@ Usually it is [http://localhost:8888/](http://localhost:8888/)
 
 ### Install instructions
 
-- Please follow [my blog](https://mrprajesh.co.in/blog/)
+- Please follow [my blog]([https://mrprajesh.co.in/blog/](https://mrprajesh.co.in/blog/how-to-run-cpp-on-jupyter-notebook.html))
